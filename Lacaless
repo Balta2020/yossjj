@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF: -1, ATV PERÚ
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF: -1, TV MAX ARG
+https://bcovlive-a.akamaihd.net/7482a528b34142c9a11b4285307632d0/us-west-2/6058004209001/playlist_dvr.m3u8
+#EXTINF: -1, BEIN XTRA Ñ
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+#EXTINF: -1, BEIN XTRA 
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF: -1, ESPN ARG
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF: -1, ESPN 2
+http://190.92.95.37:8000/play/a0sf/index.m3u8
+#EXTINF: -1, ESPN 3
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF: -1, TNT SPORTS
+https://edge-live15-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF: -1, CLARO SPORTS
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/master.m3u8
+#EXTINF: -1, FUT TV
+http://190.92.95.37:8000/play/a0t3/index.m3u8
